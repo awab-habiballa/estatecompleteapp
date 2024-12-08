@@ -4,8 +4,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon scoket/app.js",
-    "start": "node scoket/app.js"
+    "dev": "nodemon socket/app.js",
+    "start": "node socket/app.js"
   },
   "keywords": [],
   "author": "",

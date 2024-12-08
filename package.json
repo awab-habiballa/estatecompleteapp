@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon api/app.js",
     "start": "node api/app.js",
-    "build": "npm install && npm install --pefix client && npm build"
+    "build": "npm install && npm install --pefix client && npm run build"
   },
   "keywords": [],
   "author": "",

@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+socket/node_modules/
+
+# Build outputs
+client/dist/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+logs/

@@ -8,7 +8,8 @@ import userRoutes from "./routes/user.route.js";
 import chatRoutes from "./routes/chat.route.js";
 import messageRoutes from "./routes/message.route.js";
 import testRoutes from "./routes/test.route.js";
-import connectToMongoDB from "./db/connectToMongoDb.js";
+import connectToMongoDB from "./db/connectToMongoDB.js";
+
 import path from "path";
 
 dotenv.config();

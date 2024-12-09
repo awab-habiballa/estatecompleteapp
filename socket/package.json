@@ -1,7 +1,7 @@
 {
   "name": "socket",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "socket/app.js",
   "type": "module",
   "scripts": {
     "dev": "nodemon socket/app.js",

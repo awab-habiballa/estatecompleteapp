@@ -5,13 +5,14 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon socket/app.js",
-    "start": "node socket/app.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "nodemon": "^3.1.7",
     "socket.io": "^4.8.1"
   }
